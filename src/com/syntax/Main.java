@@ -15,6 +15,7 @@ public class Main {
             System.out.print(i+" ");
         }
         System.out.println("My new commit, updated one");
+        System.out.println("I am a member of this project, i am a clone");
 
 
         }
